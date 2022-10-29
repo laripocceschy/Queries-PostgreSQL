@@ -1,0 +1,2 @@
+# Queries-PostgreSQL
+SQL exercises.
